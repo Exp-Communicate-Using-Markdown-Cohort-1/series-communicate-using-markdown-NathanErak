@@ -20,3 +20,8 @@ This game made me cry a couple times. There is an orange cat who enrolls on a ep
         <p>Eventually we'll put cat pictures here</p>
         <hr>
     </body>
+
+There's a list with a little **to do** list
+- [ ] Turn on GitHub Pages
+- [ ] Improve my portafolio
+- [ ] Finish the ***Using Markdown Cohort*** by GitHub Global Campus 
